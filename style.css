@@ -25,6 +25,8 @@ nav {
 	background: #ebebeb;
 }
 
+/* Lots of trial and error with different floats and clears etc..
+	could not figure out how to get this this section to format correctly. */ 
 
 section {
 	float: left;
